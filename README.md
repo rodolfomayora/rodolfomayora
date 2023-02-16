@@ -1,4 +1,4 @@
-I started my career as a Systems Engineer graduated from UNEFA. I've +3 years of experience in Web Development, of which i've 2 year focused on FrontEnd Developmente. I've worked on E-commerce projects, web apps (SPA and SSR), mobile apps (for Android) and static websites. In the course of my career i've implemented the following technologies:
+I started my career as a Systems Engineer graduated from UNEFA. I've +3 years of experience in Web Development, of which i've 2 years focused on FrontEnd Developmente. I've worked on E-commerce projects, web apps (SPA and SSR), mobile apps (for Android) and static websites. In the course of my career i've implemented the following technologies:
 - FrontEnd libraries: ReactJS
 - Frameworks: NextJS, React-Native (Expo SDK) and ExpressJS
 - Languages: HTML5, CSS3, Sass, CSS Modules, JavaScript and TypeScript
