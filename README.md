@@ -12,14 +12,6 @@ I started my career as a Systems Engineer graduated from UNEFA. I've +3 years of
 - Hosting: Hostinger
 - Geolocation: Google Maps API and HTML Geolocation API
 
-I'm currently in the developent of web projects with ReactJS and NextJS. I'm very interesting in collaborating in the development of projects that require the use of ReactJS, JavaScript and Software test automation , such as:
-- Web Applications (SPA and SSR)
-- Static websites using SSG and JAMStack with NextJS
-- E-commerce through ReactJS integratins with Shoppify or Woocommerce
-- Software quality control with unit testing and integration testing with JEST, both FrontEnd and BackEnd.
-
-📫 How to reach me: rodolfomayora96@gmail.com
-
 <!---
 rodolfomayora/rodolfomayora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
