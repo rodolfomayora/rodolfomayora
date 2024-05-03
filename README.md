@@ -4,7 +4,7 @@ With a solid experience working in agile workflows like SCRUM, delivering clean 
 
 I'm always eager to connect with professionals, explore new opportunities, and contribute to innovative projects in the JavaScript ecosystem. Feel free to reach out.
 
-Portfolio: https://rodolfo-mayora-pereda.vercel.app
+Portfolio: https://rodolfo-mayora-pereda.vercel.app <br />
 Dockerhub: https://hub.docker.com/u/rodolfomayora
 
 <!---
