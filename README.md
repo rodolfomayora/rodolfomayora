@@ -1,16 +1,11 @@
-I started my career as a Systems Engineer graduated from UNEFA. I've +3 years of experience in Web Development, of which i've 2 years focused on FrontEnd Developmente. I've worked on E-commerce projects, web apps (SPA and SSR), mobile apps (for Android) and static websites. In the course of my career i've implemented the following technologies:
-- FrontEnd libraries: ReactJS
-- Frameworks: NextJS, React-Native (Expo SDK) and ExpressJS
-- Languages: HTML5, CSS3, Sass, CSS Modules, JavaScript and TypeScript
-- Global State Management: React-Context API and Redux (also middlewares: Redux-Saga, Redux-Thunk)
-- Runtime environments: Linux (WSL2 - Ubuntu) y NodeJS
-- Control version system: Git
-- Code repositories: Github y Bitbucket
-- Deployments: Vercel
-- Data bases: Firestore (NoSQL)
-- CMS's: Wordpress
-- Hosting: Hostinger
-- Geolocation: Google Maps API and HTML Geolocation API
+Hi, I'm a Front-End Developer with over 3+ years of experience building and maintaining scalable, high-performance web applications, I specialize in develop exceptional user experiences across multiple devices and web browsers. Proficient in CSS preprocessors (Sass/SCSS) and in JavaScript environments (React.js, TypeScript, Node.js, Express.js)
+
+With a solid experience working in agile workflows like SCRUM, delivering clean maintainable code, implementing pixel-perfect designs with responsive user interfaces that align with best practices for Core Web Vitals.
+
+I'm always eager to connect with professionals, explore new opportunities, and contribute to innovative projects in the JavaScript ecosystem. Feel free to reach out.
+
+Portfolio: https://rodolfo-mayora-pereda.vercel.app
+Dockerhub: https://hub.docker.com/u/rodolfomayora
 
 <!---
 rodolfomayora/rodolfomayora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
